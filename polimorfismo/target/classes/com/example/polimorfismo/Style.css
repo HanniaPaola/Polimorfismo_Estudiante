@@ -1,0 +1,25 @@
+Button {
+    -fx-background-color: #BF6849;
+    -fx-border-width: 2;
+    -fx-text-fill: #000000;
+    -fx-font-family: "Comic Sans MS";
+    -fx-font-style: bold;
+    -fx-font-size: 14px;
+    -fx-background-radius: 10 10 10 10;
+    -fx-border-radius: 10 10 10 10;
+}
+
+TextField {
+    -fx-border-color: #730912;
+    -fx-border-radius: 10px;
+    -fx-border-radius: 10 10 10 10;
+}
+
+
+AnchorPane{
+    -fx-background-color: #D9946C;
+}
+ListView{
+    -fx-border-radius: 50px;
+    -fx-background-color: #D6D58E;
+}
